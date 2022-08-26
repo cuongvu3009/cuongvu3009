@@ -15,8 +15,8 @@
  </a>
  
  <p align="center">OR</p>
- <li align="center">Phone: +358 465 339 075 </li>
- <li align="center">Email: cuongvu3009@gmail.com </li>
+ <p align="center">☎️ +358 465 339 075 </p>
+ <p align="center">📧 cuongvu3009@gmail.com </p>
  
 </p>
 
