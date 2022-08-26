@@ -3,7 +3,7 @@
 
 <hr />
 
-<h5 align="center">To contact  me please feel free to use one of these social networks:</h5>
+<h5 align="center">Feel free to contact me via these social icons below:</h5>
 
 <p align="center"> <a href="https://cuong-vu.netlify.app/" target="blank">
  <img src="https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white"/>
