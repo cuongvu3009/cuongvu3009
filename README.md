@@ -127,7 +127,7 @@
 
 <h3 align="center">More of my stats in github:</h3> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="400" height="auto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="600" height="auto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="400" height="auto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="600" height="auto" /></p>
 
