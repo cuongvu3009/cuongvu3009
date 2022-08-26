@@ -128,7 +128,7 @@
    
  <hr />
 
-
+<h3 align="center">More of my stats in github:</h3> 
 
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8 alt="cuongvu" width="400" height="300" /></p>
 
