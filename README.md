@@ -125,9 +125,9 @@
 <li align="center"> English: Fluent
 <li align="center"> Finnish: Basic (Learning)
 <li align="center"> Vietnamese: Native
-</pc>
+
    
- <hr />
+<hr />
 
 <h3 align="center">More of my stats in github:</h3> 
 
