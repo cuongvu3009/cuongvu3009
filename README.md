@@ -131,7 +131,12 @@
 
 <h3 align="center">More of my stats in github:</h3> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="450" height="auto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="500" height="auto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="450" height="auto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="500" height="auto" /></p>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=cuongvu3009&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="cuongvu3009" width="500" height="auto" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvu3009&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="cuongvu3009" width="500" height="auto" /></p>
+
 
