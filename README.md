@@ -73,7 +73,11 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="nodejs" width="40" height="40"/>
 </a> 
-
+ 
+<a href="[https://www.docker.com/](https://graphql.org/)" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="nodejs" width="40" height="40"/>
+</a> 
+ 
 <h3 align="center">Tools I am using:</h3> 
 <p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
