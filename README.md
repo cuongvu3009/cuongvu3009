@@ -102,7 +102,7 @@
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a> 
 
-<h3 align="center">I have basic experience with:</h3> 
+<h3 align="center">I also have basic experience with:</h3> 
 <p align="center"> 
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
