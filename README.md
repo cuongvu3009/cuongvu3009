@@ -14,7 +14,16 @@
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  
+ <p align="center">OR</p>
+ <li align="center">Phone: +358 465 339 075 </li>
+ <li align="center">Email: cuongvu3009@gmail.com </li>
+
+ 
+ 
+ 
 </p>
+
+<hr />
 
 <h3 align="center">Programming languages I know:</h3>
 <p align="center"> 
@@ -107,6 +116,8 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
+ 
+ <hr />
 
 <h3 align="center">I can speak:</h3> 
 <p align="center"> 
@@ -114,14 +125,12 @@
 <li align="center"> Finnish: Basic (Learning)
 <li align="center"> Vietnamese: Native
 </pc>
-   <hr />
+   
+ <hr />
 
 
 
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8 alt="mesfint" width="370" height="300" /></p>
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8 alt="cuongvu" width="400" height="300" /></p>
 
- 
-
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="370" height="300" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="400" height="300" /></p>
 
