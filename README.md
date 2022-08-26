@@ -131,12 +131,12 @@
 
 <h3 align="center">More of my stats in github:</h3> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="500" height="auto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongvu3009&hide=shell&layout=compact&langs_count=8" alt="cuongvu" width="520" height="auto" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="500" height="auto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvu3009&show_icons=true&locale=en" alt="cuongvu3009" width="520" height="auto" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=cuongvu3009&bg_color=ffff&color=000&line=0891b3&point=000&area_color=white&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="cuongvu3009" width="500" height="auto" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=cuongvu3009&bg_color=ffff&color=000&line=0891b3&point=000&area_color=white&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="cuongvu3009" width="520" height="auto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvu3009" alt="cuongvu3009" width="500" height="auto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvu3009" alt="cuongvu3009" width="520" height="auto" /></p>
 
 
