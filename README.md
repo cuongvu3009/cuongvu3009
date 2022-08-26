@@ -6,8 +6,11 @@
 
 <h5 align="center">Feel free to contact me via these social icons below:</h5>
 
-<p align="center"> <a href="https://cuong-vu.netlify.app/" target="blank">
+<p align="center">
+ 
+<a href="https://cuong-vu.netlify.app/" target="blank">
 <img src="https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
 
 
  <a href="https://www.linkedin.com/in/cuong-vu-duc/" target="blank">
@@ -134,7 +137,7 @@
 
 <p align="center" >
  
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=cuongvu3009&bg_color=ffff&color=000&line=0891b3&point=000&area_color=white&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="cuongvu3009" width="600" height="auto" />
+<img src="https://activity-graph.herokuapp.com/graph?username=cuongvu3009&bg_color=ffff&color=000&line=0891b3&point=000&area_color=white&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="cuongvu3009" width="600" height="auto" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvu3009" alt="cuongvu3009" width="600" height="auto" />
  
