@@ -72,6 +72,10 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> 
+</a> 
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="nodejs" width="40" height="40"/>
 </a> 
