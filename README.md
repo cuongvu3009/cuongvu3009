@@ -17,9 +17,6 @@
  <p align="center">OR</p>
  <li align="center">Phone: +358 465 339 075 </li>
  <li align="center">Email: cuongvu3009@gmail.com </li>
-
- 
- 
  
 </p>
 
@@ -41,7 +38,7 @@
 </a> 
 
 
-<h3 align="center">I am confident working with </h3>
+<h3 align="center">I am confident working with:</h3>
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
