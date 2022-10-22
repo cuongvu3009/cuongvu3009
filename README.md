@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Cuong Vu</h1>
-<h3 align="center"> Fullstack developer with React and Node</h3>
+<h3 align="center"> Fullstack developer with React, Node, and MongoDB</h3>
 
 <hr />
 
