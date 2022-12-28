@@ -106,21 +106,6 @@
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a> 
 
-<h3 align="center">I also have basic experience with:</h3> 
-<p align="center"> 
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="git" width="60" height="40"/> 
-</a> 
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="git" width="67" height="40" /> 
-</a> 
-
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-</p>
  
 <hr />
 
